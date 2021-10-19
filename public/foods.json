@@ -1,0 +1,201 @@
+[
+  {
+    "id": 1,
+    "Name": "Associate Professor Dr. S. M. Anwar Sadat",
+    "title": "Consultant, Dental & Maxillofacial Surgery",
+    "degree": "BDS, MCPS, FCPS, MS (Oral & Maxillofacial Surgery), FDSRCPS Glasgow",
+    "description": "Dr. S. M. Anwar Sadat passed Bachelor of Dental Surgery (BDS) from Dental Unit of Chittagong Medical College under Chittagong University in 1997. He passed MCPS in Dental Surgery from BCPS in 2003; FCPS in Oral & Maxillofacial Surgery FIRST TIME in Bangladesh from BCPS in 2005. He also did his masters (MS) in same discipline from Dhaka Dental College under Dhaka University in 2009.",
+    "descLong": "Dr. S. M. Anwar Sadat passed Bachelor of Dental Surgery (BDS) from Dental Unit of Chittagong Medical College under Chittagong University in 1997. He passed MCPS in Dental Surgery from BCPS in 2003; FCPS in Oral & Maxillofacial Surgery FIRST TIME in Bangladesh from BCPS in 2005. He also did his masters (MS) in same discipline from Dhaka Dental College under Dhaka University in 2009.Recently in 2021, Dr. Anwar Sadat has been awarded FDSRCPS from Glasgow, United Kingdom for his excellent academic, research and clinical contribution to the dentistry of Bangladesh.He got advanced training in oral cancer surgery and reconstruction from University of Peradeniya, Kandy, Sri Lanka as JICA Fellowship (Japan); Dental Implant from Boston, USA; Aesthetic Jaw Surgery from Chulalongkorn University, Thailand; Cancer and Trauma Reconstruction from Peking University, China.",
+    "price": 8.99,
+    "image": "https://www.squarehospital.com/storage/images/1623232170.png",
+    "type": "Breakfast"
+  },
+  {
+    "id": 2,
+    "Name": "Dr. Subrata Kumar Barai",
+    "degree": "BDS, Advanced training in Dental Surgery (India), Dental Implant (India)",
+    "title": "Oral & Dental Surgeon",
+    "description": "Dr. Subrata Kumar Barai graduated from City Dental College under the University of Dhaka in 2003. After completing his internship he dedicated his training in the field of General Dentistry.",
+    "price": 9.99,
+    "descLong": "Dr. Subrata Kumar Barai graduated from City Dental College under the University of Dhaka in 2003. After completing his internship he dedicated his training in the field of General Dentistry. He completed one year Post Graduation Training on Oral & Maxillofacial Surgery from BSMMU. Then he joined as a Medical Officer at HCDP of Diabetic Association of Bangladesh in 2006. During his professional service he achieved advanced training on Dental Surgery and Dental Implant Prosthesis from CMC Vellore, India. He is specialist in dealing with different oral and dental diseases, artificial replacement of missing teeth such as crown, bridge, implant & maxillofacial prosthesis and also expert in high tech endodontic procedures like root canal treatment & endodontic surgery. He joins Square Hospital as a highly skilled Oral & Dental Surgeon..",
+    "image": "https://www.squarehospital.com/storage/images/1548650452.jpg",
+    "type": "Breakfast",
+    "experience": "12 years"
+  },
+  {
+    "id": 3,
+    "Name": "Prof. Dr. Brig. Gen. Md. Liakat Ali Hyder",
+    "degree": "BDS, FCPS",
+    "title": "Consultant, Dental Surgery & Orthodontics Degree - BDS, FCPS",
+    "description": "Prof (Dr.) Brig Gen Md Liakat Ali Hyder is a renowned orthodontist of Bangladesh. He completed his fellowship in Orthodontics and Dentofacial Orthopedics from Bangladesh College of Physicians and Surgeons.",
+    "price": 10.99,
+    "descLong": "Prof (Dr.) Brig Gen Md Liakat Ali Hyder is a renowned orthodontist of Bangladesh. He completed his fellowship in Orthodontics and Dentofacial Orthopedics from Bangladesh College of Physicians and Surgeons. His practices focus not only on Orthodontics but also on general dentistry.Dr. Hyder commissioned as a proud member of Army Dental Corps in 1992. In his long and colorful service life Dr. Hyder dedicatedly served as a dental surgeon in different Combined Military Hospitals throughout the country. As a member of the United Nations he provided quality dental treatment to the distressed population of Liberia and Congo. His reputation as a dental surgeon in Kuwait Army has further enriched his experience in this arena. His fundamental research articles in various topics of Orthodontics has been published in different reputed national journals.",
+    "image": "https://www.squarehospital.com/storage/images/1572407737.jpg",
+    "type": "Breakfast"
+  },
+  {
+    "id": 4,
+    "Name": "Prof. (Dr.) Ninan Chacko",
+    "degree": "MBBS, MS, MCh (Urology), FRCS (Urology)",
+    "title": "Senior Consultant, Urology",
+    "description": "Prof. (Dr.) Ninan Chacko, MBBS, MS, MCh (Urol.), FRCS (Urol.) is an Eminent Urologist, and a familiar name in the field of Urology Surgery in India. He was Professor of Urology on the Faculty of Urology at Christian Medical College & Hospital, Vellore India. He has trained many prominent Urologists now practicing all over the world. He is available for regular Consultation and Surgery in Square Hospital, Dhaka.",
+    "descLong": "Prof. (Dr.) Ninan Chacko, MBBS, MS, MCh (Urol.), FRCS (Urol.) is an Eminent Urologist, and a familiar name in the field of Urology Surgery in India. He was Professor of Urology on the Faculty of Urology at Christian Medical College & Hospital, Vellore India. He has trained many prominent Urologists now practicing all over the world. He is available for regular Consultation and Surgery in Square Hospital, Dhaka.He had his entire training at CMC, Vellore & obtained MBBS & MS [Gen Surg.] from Madras University and MCh [Urol] from MGR Medical University, Madras, India. He had further super-specialty training in Urology at the Freeman Hospital, Newcastle-upon-Tyne, UK and was awarded the FRCS [Urol.] by the Inter-Collegiate Board of the Royal Colleges of Surgeons.He has extensive experience in Renal Transplant & Renovascular Surgery, Endourology, Stone Surgery, Laparoscopic Urology, Paediatric Urology, Reconstructive Urology, & General Urology.",
+    "price": 23.99,
+    "image": "https://www.squarehospital.com/storage/images/1521005013Dr_Ninan_Chacko_(3).JPG",
+    "type": "Breakfast"
+  },
+  {
+    "id": 5,
+    "Name": "Associate Prof. Dr. N. I. Bhuiyan",
+    "degree": "MBBS, MS (Urology), Advanced training in Urology (India, Thailand)",
+    "title": "Consultant, Urology",
+    "description": "Dr. N I Bhuiyan Bhuiyan graduated from Sir Salimullah Medical College and started his career as Lecturer at Dinajpur Medical College. He worked in Dhaka Medical College Hospital in Surgery Department and later in Casualty Surgery Department. Subsequently, he enrolled as thesis student in the department of Urology in the same institute and obtained his MS (Urology).",
+    "descLong": "Dr. N I Bhuiyan Bhuiyan graduated from Sir Salimullah Medical College and started his career as Lecturer at Dinajpur Medical College. He worked in Dhaka Medical College Hospital in Surgery Department and later in Casualty Surgery Department. Subsequently, he enrolled as thesis student in the department of Urology in the same institute and obtained his MS (Urology).Dr. N I Bhuiyan joined Bangladesh Medical College as Assistant Professor, Urology. He visited USA, Germany, Singapore, India and Thailand for extensive advanced training in Urology. He attained advanced course on Laparoscopic Urology from IRCARD, Taiwan.  He got advanced training on use of LASER in Urology from Germany. Dr. N I Bhuiyan was awarded Major Gen. K M Siraj Jinnat Memorial Gold Medal for innovative work on urology by Bangladesh Association of Urological Surgeons (BAUS).",
+    "price": 15.20,
+    "image": "https://www.squarehospital.com/storage/images/1597920703.jpg",
+    "type": "Breakfast"
+  },
+  {
+    "id": 6,
+    "Name": "Dr. Farzana Rashid",
+    "degree": "FCPS ( OBS-GYN)",
+    "title": "Associate Consultant- OB-GYN & IVF",
+    "description": "Dr. Farzana Rashid is a medical graduate from Mymensingh Medical College. She obtained her FCPS in Obstetrics and Gynaecology from Bangladesh College Of Physicians And Surgeons in the year 2011.After completing internship, she dedicated herself at the departments of Obs-Gyn of Dhaka Medical College, Mymensingh Medical College and BSMMU in different span of time. She gained experiences through her working tenure in Government job in Institute of Child and Mother Health, Matuail, Dhaka.Dr. Farzana joined Square Hospitals Limited in 2012. Here she groomed herself up as one of the dependable obstetrician by dealing high risk pregnancy cases and conducting Normal Vaginal Deliveries efficiently.",
+    "price": 19.99,
+    "descLong": "Dr. Farzana Rashid is a medical graduate from Mymensingh Medical College. She obtained her FCPS in Obstetrics and Gynaecology from Bangladesh College Of Physicians And Surgeons in the year 2011.After completing internship, she dedicated herself at the departments of Obs-Gyn of Dhaka Medical College, Mymensingh Medical College and BSMMU in different span of time. She gained experiences through her working tenure in Government job in Institute of Child and Mother Health, Matuail, Dhaka.Dr. Farzana joined Square Hospitals Limited in 2012. Here she groomed herself up as one of the dependable obstetrician by dealing high risk pregnancy cases and conducting Normal Vaginal Deliveries efficiently.",
+    "image": "https://www.squarehospital.com/storage/images/1607836262.jpg",
+    "type": "Breakfast"
+  },
+  {
+    "id": 7,
+    "Name": "Dr. Khaleda Yeasmin Mirza",
+    "degree": "MBBS, DGO (Ireland), Arab Board, KSA",
+    "title": "Senior Consultant, Obstetrics & Gynecology",
+    "description": "Dr. Khaleda Yeasmin Mirza Obtained MBBS from Chittagong Medical College in 1987, DGO from Royal College of Physician, Ireland in 1997 & Arab Board in Obst/Gynae (KSA) in 2001.She started her career in Chittagong Medical College & then moved to Saudi Arabia. She worked in Medina Maternity & Children Hospital, KSA & King Faisal Military Hospital till 2006 then joined in Square Hospital & Working as Consultant till now.She attended Fellowship program on minimal invasive surgery in World Laparoscopy Hospital, New Delhi & awarded fellowship (FMAS). She also achieved hands on training on suture less vaginal Hysterectomy from Purohit General Hospital, Orissa, India & Total Laparoscopic Hysterectomy from Sunrise Hospital, Delhi, India. She achieved advanced training in Laparoscopic Hysterectomy & Myomectomy from K. K. Women’s & Children Hospital, Singapore. She has more than 25 years experience in the field of Obstetrics & Gynecology.",
+    "price": 15.99,
+    "descLong": "Dr. Khaleda Yeasmin Mirza Obtained MBBS from Chittagong Medical College in 1987, DGO from Royal College of Physician, Ireland in 1997 & Arab Board in Obst/Gynae (KSA) in 2001.She started her career in Chittagong Medical College & then moved to Saudi Arabia. She worked in Medina Maternity & Children Hospital, KSA & King Faisal Military Hospital till 2006 then joined in Square Hospital & Working as Consultant till now.She attended Fellowship program on minimal invasive surgery in World Laparoscopy Hospital, New Delhi & awarded fellowship (FMAS). She also achieved hands on training on suture less vaginal Hysterectomy from Purohit General Hospital, Orissa, India & Total Laparoscopic Hysterectomy from Sunrise Hospital, Delhi, India. She achieved advanced training in Laparoscopic Hysterectomy & Myomectomy from K. K. Women’s & Children Hospital, Singapore. She has more than 25 years experience in the field of Obstetrics & Gynecology.",
+    "image": "https://www.squarehospital.com/storage/images/1521005751Dr_Khaleda_Yeasmin_(3).JPG",
+    "type": "Lunch"
+  },
+  {
+    "id": 8,
+    "Name": "Prof. Dr. S. R. Begum",
+    "degree": "MBBS, FCPS (Gyn), F1CS",
+    "title": "Senior Consultant, Obstetrics & Gynecology",
+    "description": "Prof. Dr. Sultana Razia Begum graduated from Mymenshingh Medical College and secured 2nd position with Honors in Surgery and Obstetrics and Gynecology.  In FCPS examination she passed it in the 1st attempt from Bangladesh College of Physicians and Surgeons (BCPS).Prof. S. R. Begum started practicing at the department of ObsGyn in Dhaka Medical College. Afterwards she joined Rajshahi Medical College as Assistant Professor and eventually promoted to the rank of Associate Professor and Professor of ObGyn. She chaired ObsGyn department of Rajshahi Medical College, Sher-e- Bangla Medical College and Bangabandhu Sheikh Mujib Medical University (BSMMU). As a Professor of ObsGyn, she engaged in teaching under Graduate, Post Graduate, Masters and Fellowship level. She is the examiner of all the universities of the country, College of Physicians and Surgeons.",
+    "price": 7.99,
+    "descLong": "Prof. Dr. Sultana Razia Begum graduated from Mymenshingh Medical College and secured 2nd position with Honors in Surgery and Obstetrics and Gynecology.  In FCPS examination she passed it in the 1st attempt from Bangladesh College of Physicians and Surgeons (BCPS).Prof. S. R. Begum started practicing at the department of ObsGyn in Dhaka Medical College. Afterwards she joined Rajshahi Medical College as Assistant Professor and eventually promoted to the rank of Associate Professor and Professor of ObGyn. She chaired ObsGyn department of Rajshahi Medical College, Sher-e- Bangla Medical College and Bangabandhu Sheikh Mujib Medical University (BSMMU). As a Professor of ObsGyn, she engaged in teaching under Graduate, Post Graduate, Masters and Fellowship level. She is the examiner of all the universities of the country, College of Physicians and Surgeons.",
+    "image": "https://www.squarehospital.com/storage/images/1521005688Prof_SR_Begum_(4).jpg",
+    "type": "Lunch"
+  },
+  {
+    "id": 9,
+    "Name": "Prof. Dr. Rehana Parveen",
+    "degree": "MBBS, FCPS",
+    "title": "Senior Consultant, Gynecological Oncology",
+    "description": "Prof. Dr. Rehana Parveen graduated from Sher-e-Bangla Medical College & stood first in order of merit in Final Prof Examination under University of Dhaka with Honors marks in Obs & Gyne in 1983. She obtained FCPS degree from Bangladesh College of Physicians & Surgeons (BCPS) in 1992.As a popular teacher she worked in many medical colleges such as, Dhaka Medical College, Chittagong Medical College, Mymensingh Medical College, Osmani Medical College, Suhrawardy Medical College & lastly in National Institute of Cancer Research & Hospital (NICR&H). She has vast experience in teaching & treating patients of Obgyn (including Gyne Oncology) for about 25 years & exerted her duties solely as Gynecological Oncologist for over 7 years. Before joining Square Hospital, she was Head, Department of Gyne Oncology in NICR&H, Mohakhali. Under her dynamic leadership training in Gyne Oncology has been recognized for 3 years in NICR&H by BCPS for FCPS Degree. ",
+    "price": 7.99,
+    "descLong": "Prof. Dr. Rehana Parveen graduated from Sher-e-Bangla Medical College & stood first in order of merit in Final Prof Examination under University of Dhaka with Honors marks in Obs & Gyne in 1983. She obtained FCPS degree from Bangladesh College of Physicians & Surgeons (BCPS) in 1992.As a popular teacher she worked in many medical colleges such as, Dhaka Medical College, Chittagong Medical College, Mymensingh Medical College, Osmani Medical College, Suhrawardy Medical College & lastly in National Institute of Cancer Research & Hospital (NICR&H). She has vast experience in teaching & treating patients of Obgyn (including Gyne Oncology) for about 25 years & exerted her duties solely as Gynecological Oncologist for over 7 years. Before joining Square Hospital, she was Head, Department of Gyne Oncology in NICR&H, Mohakhali. Under her dynamic leadership training in Gyne Oncology has been recognized for 3 years in NICR&H by BCPS for FCPS Degree. ",
+    "image": "https://www.squarehospital.com/storage/images/1606624504.jpg",
+    "type": "Lunch"
+  },
+  {
+    "id": 10,
+    "Name": "Dr. Nargis Fatema",
+    "degree": "MBBS, FCPS, MS (ObsGyn)",
+    "title": " Senior Consultant, Obstetrics & Gynecology",
+    "description": "Dr. Nargis Fatema joined in government services under Ministry of Health and Family Welfare and worked in Dhaka Medical College Hospital, Sir Salimullah Medical College & Mitford Hospital. She received advanced training in Laparoscopic Surgery from BIRDEM and performed as a faculty member of MOET training course. She participated and presented papers in a number of national and international workshops, seminars, and symposiums and was awarded for her research paper in SAFOG conference and EASD conference at Italy. Her approach towards the patients is very holistic which includes not just understanding the disease but also the feelings and emotional state of the patient and her family. Her 24 years of experience is enriched with knowledge, decision making capacity, operative skills and care giving attitude. She has special interest in high risk pregnancy and laparoscopic surgery. She is working as a full time consultant at Square Hospital from 2007..",
+    "descLong": "Dr. Nargis Fatema joined in government services under Ministry of Health and Family Welfare and worked in Dhaka Medical College Hospital, Sir Salimullah Medical College & Mitford Hospital. She received advanced training in Laparoscopic Surgery from BIRDEM and performed as a faculty member of MOET training course. She participated and presented papers in a number of national and international workshops, seminars, and symposiums and was awarded for her research paper in SAFOG conference and EASD conference at Italy. Her approach towards the patients is very holistic which includes not just understanding the disease but also the feelings and emotional state of the patient and her family. Her 24 years of experience is enriched with knowledge, decision making capacity, operative skills and care giving attitude. She has special interest in high risk pregnancy and laparoscopic surgery. She is working as a full time consultant at Square Hospital from 2007.",
+    "price": 8.99,
+    "image": "https://www.squarehospital.com/storage/images/1606624495.jpg",
+    "type": "Lunch"
+  },
+  {
+    "id": 11,
+    "Name": "Dr. Farzana Rashid",
+    "degree": "FCPS ( OBS-GYN)",
+    "title": "Associate Consultant- OB-GYN & IVF",
+    "description": "Dr. Farzana Rashid is a medical graduate from Mymensingh Medical College. She obtained her FCPS in Obstetrics and Gynaecology from Bangladesh College Of Physicians And Surgeons in the year 2011.After completing internship, she dedicated herself at the departments of Obs-Gyn of Dhaka Medical College, Mymensingh Medical College and BSMMU in different span of time. She gained experiences through her working tenure in Government job in Institute of Child and Mother Health, Matuail, Dhaka.Dr. Farzana joined Square Hospitals Limited in 2012. Here she groomed herself up as one of the dependable obstetrician by dealing high risk pregnancy cases and conducting Normal Vaginal Deliveries efficiently.Dr. Farzana enriched herself with the advanced training in the field of Artificial Reproductive Techniques which requires treating infertility, from Institute of Reproductive Medicine, India. She also gained training in Laparoscopic surgeries.",
+    "descLong": "Dr. Farzana Rashid is a medical graduate from Mymensingh Medical College. She obtained her FCPS in Obstetrics and Gynaecology from Bangladesh College Of Physicians And Surgeons in the year 2011.After completing internship, she dedicated herself at the departments of Obs-Gyn of Dhaka Medical College, Mymensingh Medical College and BSMMU in different span of time. She gained experiences through her working tenure in Government job in Institute of Child and Mother Health, Matuail, Dhaka.Dr. Farzana joined Square Hospitals Limited in 2012. Here she groomed herself up as one of the dependable obstetrician by dealing high risk pregnancy cases and conducting Normal Vaginal Deliveries efficiently.Dr. Farzana enriched herself with the advanced training in the field of Artificial Reproductive Techniques which requires treating infertility, from Institute of Reproductive Medicine, India. She also gained training in Laparoscopic surgeries.",
+    "price": 13.99,
+    "image": "https://www.squarehospital.com/storage/images/1607836262.jpg",
+    "type": "Lunch"
+  },
+  {
+    "id": 12,
+    "Name": "Dr. Mohsin Ahmed",
+    "degree": "MBBS,MCPS (Medicine),MD (Cardiology),FIC,FACC,FESC",
+    "title": "Cardiology & Medicine Specialist",
+    "description": "After completing internship she dedicated her training in the field of Obstetrics & Gynecology and successfully obtained FCPS in ObsGyn from Bangladesh College of Physicians and Surgeons (BCPS). During her course she had extensive training on all types of gynecological and obstetric procedures. She gained experience in performing wide spectrum of obsgyn functions throughout her government services under Ministry of Health and Family Welfare. She also worked in National Medical College Hospital and Bangladesh Medical College Hospital. Dr. Shamsun Nahar performs all types of obstetrical and gynecological managements and surgeries successfully.",
+    "descLong": "After completing internship she dedicated her training in the field of Obstetrics & Gynecology and successfully obtained FCPS in ObsGyn from Bangladesh College of Physicians and Surgeons (BCPS). During her course she had extensive training on all types of gynecological and obstetric procedures. She gained experience in performing wide spectrum of obsgyn functions throughout her government services under Ministry of Health and Family Welfare. She also worked in National Medical College Hospital and Bangladesh Medical College Hospital. Dr. Shamsun Nahar performs all types of obstetrical and gynecological managements and surgeries successfully.",
+    "price": 83.99,
+    "image": "https://www.ibnsinatrust.com/upload/Dr.%20Mohsin%20Ahmed.jpg",
+    "type": "Lunch"
+  },
+  {
+    "id": 13,
+    "Name": "Dr. MM Mortayez Amin",
+    "title": "Asthma/COPD, Diabetes, Medicine",
+    "degree": "MBBS (DMC),MPhil, MMS (England)",
+    "description": "Dr. S. M. Anwar Sadat passed Bachelor of Dental Surgery (BDS) from Dental Unit of Chittagong Medical College under Chittagong University in 1997. He passed MCPS in Dental Surgery from BCPS in 2003; FCPS in Oral & Maxillofacial Surgery FIRST TIME in Bangladesh from BCPS in 2005. He also did his masters (MS) in same discipline from Dhaka Dental College under Dhaka University in 2009.",
+    "descLong": "Dr. S. M. Anwar He also did his masters (MS) in same discipline from Dhaka Dental College under Dhaka University in 2009.Recently in 2021, Dr. Anwar Sadat has been awarded FDSRCPS from Glasgow, United Kingdom for his excellent academic, research and clinical contribution to the dentistry of Bangladesh.He got advanced training in oral cancer surgery and reconstruction from University of Peradeniya, Kandy, Sri Lanka as JICA Fellowship (Japan); Dental Implant from Boston, USA; Aesthetic Jaw Surgery from Chulalongkorn University, Thailand; Cancer and Trauma Reconstruction from Peking University, China.",
+    "price": 14.30,
+    "image": "https://www.ibnsinatrust.com/upload/Dr.%20MM%20Mortayez%20Amin.jpg",
+    "type": "Dinner"
+  },
+  {
+    "id": 14,
+    "Name": "Dr. Quazi Mamtaz Uddin Ahmed",
+    "title": "Medicine Specialist",
+    "degree": "MBBS, (DMC). MD (USA), FCPS (Medicine",
+    "description": "Dr. S. M. Anwar Sadat passed Bachelor of Dental Surgery (BDS) from Dental Unit of Bangabandhu Shekh Mujib Medical University, Dhakain 1997. He passed MCPS in Dental Surgery from BCPS in 2003; FCPS in Oral & Maxillofacial Surgery FIRST TIME in Bangladesh from BCPS in 2005. He also did his masters (MS) in same discipline from Dhaka Dental College under Dhaka University in 2009.",
+    "descLong": "Dr. S. M. Anwar Sadat passed Bachelor of Dental Surgery (BDS) from Dental Unit of Chittagong Medical College under Chittagong University in 1997. He passed MCPS in Dental Surgery from BCPS in 2003; FCPS in Oral & Maxillofacial Surgery FIRST TIME in Bangladesh from BCPS in 2005. He also did his masters (MS) in same discipline from Dhaka Dental College under Dhaka University in 2009.Recently in 2021, Dr. Anwar Sadat has been awarded FDSRCPS from Glasgow, United Kingdom for his excellent academic, research and clinical contribution to the dentistry of Bangladesh.He got advanced training in oral cancer surgery and reconstruction from University of Peradeniya, Kandy, Sri Lanka as JICA Fellowship (Japan); Dental Implant from Boston, USA; Aesthetic Jaw Surgery from Chulalongkorn University, Thailand; Cancer and Trauma Reconstruction from Peking University, China.",
+    "price": 32.20,
+    "image": "https://www.ibnsinatrust.com/upload/Dr.%20Quazi%20Mamtaz%20Uddin%20Ahmed.jpg",
+    "type": "Dinner"
+  },
+  {
+    "id": 15,
+    "Name": "Dr. Md. Safiullah",
+    "title": "ENT Specialist & Head Neck Surgeon",
+    "degree": "MBBS, DLO, MCPS, FICS,MS, FS (Japan)",
+    "description": "Dr. Md. Safiullah Bachelor of Dental Surgery (BDS) from Dental Unit of Chittagong Medical College under Chittagong University in 1997. He passed MCPS in Dental Surgery from BCPS in 2003; FCPS in Oral & Maxillofacial Surgery FIRST TIME in Bangladesh from BCPS in 2005. He also did his masters (MS) in same discipline from Dhaka Dental College under Dhaka University in 2009.",
+    "descLong": "Dr. S. M. Anwar Sadat passed Bachelor of Dental Surgery (BDS) from Dental Unit of Chittagong Medical College under Chittagong University in 1997. He passed MCPS in Dental Surgery from BCPS in 2003; FCPS in Oral & Maxillofacial Surgery FIRST TIME in Bangladesh from BCPS in 2005. He also did his masters (MS) in same discipline from Dhaka Dental College under Dhaka University in 2009.Recently in 2021, Dr. Anwar Sadat has been awarded FDSRCPS from Glasgow, United Kingdom for his excellent academic, research and clinical contribution to the dentistry of Bangladesh.He got advanced training in oral cancer surgery and reconstruction from University of Peradeniya, Kandy, Sri Lanka as JICA Fellowship (Japan); Dental Implant from Boston, USA; Aesthetic Jaw Surgery from Chulalongkorn University, Thailand; Cancer and Trauma Reconstruction from Peking University, China.",
+    "price": 21.99,
+    "image": "https://www.ibnsinatrust.com/upload/Dr.%20Md.%20Safiullah.jpg",
+    "type": "Dinner"
+  },
+  {
+    "id": 16,
+    "Name": "Dr. Nasima Shaheen",
+    "title": "Consultant, Obstetrics & Gynecology",
+    "degree": "MBBS, DGO, MCPS, FCPS",
+    "description": "Dr. Nasima Shaheen graduated from Dhaka Medical College. She accomplished the fellowship FCPS in Obstetrics & Gynaecology from Bangladesh College of Physicians and Surgeons (BCPS). She owned MCPS & DGO in ObsGyn from BCPS & Bangabandhu Sheikh Mujib Medical University (BSMMU) respectively.Dr. Nasima Shaheen employed in government services under Ministry of Health & Family Welfare. She also worked in Bangabandhu Sheikh Mujib Medical University (BSMMU) and in Azimpur Maternity (MCHTI) at Dhaka. She gained wide range of experience to practice & perform all types of obstetrical & gynecological management including laparoscopic surgery independently.",
+    "descLong": "Dr. Nasima Shaheen graduated from Dhaka Medical College. She accomplished the fellowship FCPS in Obstetrics & Gynaecology from Bangladesh College of Physicians and Surgeons (BCPS). She owned MCPS & DGO in ObsGyn from BCPS & Bangabandhu Sheikh Mujib Medical University (BSMMU) respectively.Dr. Nasima Shaheen employed in government services under Ministry of Health & Family Welfare. She also worked in Bangabandhu Sheikh Mujib Medical University (BSMMU) and in Azimpur Maternity (MCHTI) at Dhaka. She gained wide range of experience to practice & perform all types of obstetrical & gynecological management including laparoscopic surgery independently.",
+    "price": 20.23,
+    "image": "https://www.squarehospital.com/storage/images/1601271540.jpg",
+    "type": "Dinner"
+  },
+  {
+    "id": 17,
+    "Name": "Prof. Dr. Md. Siraj Uddin",
+    "title": "Senior Consultant, Clinical & Aesthetic Dermatology",
+    "degree": "MBBS, DDV (BSMMU), DD (Bangkok) Fellow - Dermatosurgery & Laser (Bangkok), Fellow - Hair Transplant Surgery, New York University, USA",
+    "description": "Prof. Dr. Md. Siraj Uddin completed his graduation from Sylhet MAG Osmani Medical College in 1982. After finishing his internship he joined as medical officer under Ministry of Health, Bangladesh. He worked as a Professor & Head of the Department of Dermatology at Sylhet M.A.G. Osmani Medical College till 2008 & then at  Sylhet Women’s Medical College from 2008 to 2016. He completed Diploma in Dermatology (DD) from Institute of Dermatology Bangkok, Thailand & then Diploma in Dermatology & Venereology (DDV) from BSMMU, Dhaka. He achieved Fellowship in Laser & Dermatosurgery from Institute of Dermatology & Ramathibody Laser Center, Bangkok, Thailand & Fellowship in Hair Restoration Surgery from Mount Sinai Hospital, New York University, USA. ",
+    "descLong": "Prof. Dr. Md. Siraj Uddin completed his graduation from Sylhet MAG Osmani Medical College in 1982. After finishing his internship he joined as medical officer under Ministry of Health, Bangladesh. He worked as a Professor & Head of the Department of Dermatology at Sylhet M.A.G. Osmani Medical College till 2008 & then at  Sylhet Women’s Medical College from 2008 to 2016. He completed Diploma in Dermatology (DD) from Institute of Dermatology Bangkok, Thailand & then Diploma in Dermatology & Venereology (DDV) from BSMMU, Dhaka. He achieved Fellowship in Laser & Dermatosurgery from Institute of Dermatology & Ramathibody Laser Center, Bangkok, Thailand & Fellowship in Hair Restoration Surgery from Mount Sinai Hospital, New York University, USA.",
+    "price": 38.99,
+    "image": "https://www.squarehospital.com/storage/images/1599976173.jpg",
+    "type": "Dinner"
+  },
+  {
+    "id": 18,
+    "Name": "Prof. Wahiuddin Mahmood",
+    "title": "Senior Consultant, Anesthesiology",
+    "degree": "MBBS, DA, FCPS",
+    "description": "Prof. Wahiuddin Mahmood graduated from Chittagong Medical College in 1983. After his internship he worked as Resident Anesthesiologist at IPGMR (BSMMU) and obtained DA (Diploma in Anesthesiology) from the same institute under University of Dhaka in 1990. Prof. Wahiuddin completed his fellowship FCPS (Anesthesiology) from Bangladesh College of Physicians and Surgeons (BCPS).Prof. Wahiuddin joined Dhaka Medical College as Resident Anesthesiologist. Later he worked in SSMCH as a Jr. Consultant, Anesthesiology and then as Assistant Professor and Associate Professor of Dhaka Medical College. He performed Shaheed Suhrawardy Hospital as Professor. He obtained advanced training in Alternative Fluid Therapy (Korea) and attended international congresses periodically across the world.Prof. Wahiuddin is trained in latest advancement on Critical Care Management & ICU, organized by Sriraj Hospital, Mahidol University, Bangkok, Thailand.",
+    "descLong": "Prof. Wahiuddin Mahmood graduated from Chittagong Medical College in 1983. After his internship he worked as Resident Anesthesiologist at IPGMR (BSMMU) and obtained DA (Diploma in Anesthesiology) from the same institute under University of Dhaka in 1990. Prof. Wahiuddin completed his fellowship FCPS (Anesthesiology) from Bangladesh College of Physicians and Surgeons (BCPS).Prof. Wahiuddin joined Dhaka Medical College as Resident Anesthesiologist. Later he worked in SSMCH as a Jr. Consultant, Anesthesiology and then as Assistant Professor and Associate Professor of Dhaka Medical College. He performed Shaheed Suhrawardy Hospital as Professor. He obtained advanced training in Alternative Fluid Therapy (Korea) and attended international congresses periodically across the world.Prof. Wahiuddin is trained in latest advancement on Critical Care Management & ICU, organized by Sriraj Hospital, Mahidol University, Bangkok, Thailand.",
+    "price": 28.99,
+    "image": "https://www.squarehospital.com/storage/images/1521001342Prof_Wahiuddin_(4).JPG",
+    "type": "Dinner"
+  }
+]
