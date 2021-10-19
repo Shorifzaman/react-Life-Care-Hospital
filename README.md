@@ -5,7 +5,7 @@ It is a single page application made with ReactJS, Tailwind CSS etc...
 
 ## Live Demo of this website :
 
-- [Live Site Link](https://red-onion-restaurant-41dbe.web.app/)
+- [Live Site Link](https://cranky-lichterman-dab036.netlify.app/)
 ## Live Demo of this website :
 
 - Online Apointment
@@ -13,12 +13,6 @@ It is a single page application made with ReactJS, Tailwind CSS etc...
 - Emargency Case Support
 - Online Payment
 - Expert Doctor
-
-
-## Live Demo of this website :
-
-- [Live Site Link](https://cranky-lichterman-dab036.netlify.app)
-
 
 ## Technologies
 
