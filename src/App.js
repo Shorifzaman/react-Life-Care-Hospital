@@ -27,17 +27,24 @@ const App = () => {
           <DeliveryProvider>
           <Navbar />
           <Switch>
-            <Route exact path="/"><HomeScreen /></Route>      
-            <PublicRoute exact path="/home"><HomeScreen /></PublicRoute>
-            <PublicRoute exact path="/about"><AboutUs /></PublicRoute>
-            <PublicRoute exact path="/service"><Foods /></PublicRoute>
-            <PublicRoute exact path="/testimonial"><Testimonial /></PublicRoute>
-            <PublicRoute exact path="/contact"><Contact /></PublicRoute>
+            <Route exact path="/"><HomeScreen /></Route>
+
+
+            
+            <Route exact path="/home"><HomeScreen /></Route>
+            <Route exact path="/about"><AboutUs /></Route>
+            <Route exact path="/testimonial"><Testimonial /></Route>
+            <Route exact path="/service"><Foods /></Route>
+            <Route exact path="/contact"><Contact /></Route>
+
+
             <PublicRoute exact path="/signup"><SignUpScreen /></PublicRoute>
-            <PublicRoute exact path="/signin"><SignInScreen /></PublicRoute>
-            <PrivateRoute exact path="/foods/:title"><FoodDetailScreen /></PrivateRoute>
-            <PrivateRoute exact path="/orders"><PlaceOrderScreen /></PrivateRoute>
-            <PrivateRoute exact path="/order-successful"><OrderSuccessfulScreen /></PrivateRoute>
+             <PublicRoute exact path="/signin"><SignInScreen /></PublicRoute>
+             <PrivateRoute exact path="/foods/:title"><FoodDetailScreen /></PrivateRoute>
+             <PrivateRoute exact path="/orders"><PlaceOrderScreen /></PrivateRoute>
+             <PrivateRoute exact path="/order-successful"><OrderSuccessfulScreen /></PrivateRoute>
+            
+            
             <Route  path="*"><ErrorScreen /></Route>
           </Switch>
           <Footer></Footer>

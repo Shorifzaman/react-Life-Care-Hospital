@@ -1,13 +1,14 @@
 import { initializeApp } from "firebase/app";
 
+// Your web app's Firebase configuration
 const firebaseConfig = {
-    apiKey: "AIzaSyAdMLs3GTT1Dy0-ZGtx8JQ4K8tUEF_AFfo",
-    authDomain: "ema-jon-auth-3f432.firebaseapp.com",
-    projectId: "ema-jon-auth-3f432",
-    storageBucket: "ema-jon-auth-3f432.appspot.com",
-    messagingSenderId: "452248473815",
-    appId: "1:452248473815:web:eb8a3e8e3d6c24fcd96092"
-  };
+  apiKey: "AIzaSyBdR40ZaRnr38PkPGnFqb-H2MtQ6ILJQt8",
+  authDomain: "life-careltd.firebaseapp.com",
+  projectId: "life-careltd",
+  storageBucket: "life-careltd.appspot.com",
+  messagingSenderId: "354683187775",
+  appId: "1:354683187775:web:6dc2647e172992b078fe8a"
+};
   
 
 

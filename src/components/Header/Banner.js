@@ -15,7 +15,7 @@ const content = [
 		description:
 		'Hello guys, I am Soren from Sirbistana. I am senior art director and founder.fermentum massa justo sit amet risus. Cras justo odio, dapibus ac facilisis.',
 		button: 'Book appoinment',
-		image: 'https://i.imgur.com/ZXBtVw7.jpg',
+		image: 'https://technext.github.io/medic-care/images/slider/young-asian-female-dentist-white-coat-posing-clinic-equipment.jpg',
 		user: 'Luan Gjokaj',
 		userProfile: 'https://i.imgur.com/JSW6mEk.png'
 	},
@@ -24,7 +24,7 @@ const content = [
 		description:
 		'Nullam id dolor id nibh ultricies vehicula ut id elit. Cras mattis consectetur purus sit amet fermentum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Donec sed odio dui.',
 		button: 'Discover',
-		image: 'https://i.imgur.com/DCdBXcq.jpg',
+		image: 'https://technext.github.io/medic-care/images/slider/doctor-s-hand-holding-stethoscope-closeup.jpg',
 		user: 'Erich Behrens',
 		userProfile: 'https://i.imgur.com/0Clfnu7.png'
 	},
@@ -47,7 +47,7 @@ const Banner = () => {
 			{content.map((item, index) => (
 				<div
 					key={index}
-					className="slider-content"
+					className="slider-content w-full"
 					style={{ background: `url('${item.image}') no-repeat center center` }}
 				>
 					<div className="inner">

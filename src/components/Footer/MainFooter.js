@@ -1,9 +1,9 @@
 import React from 'react'
-import Brand from '../Form/Brand'
+
 
 const MainFooter = () => {
     return (
-        <footer class="px-4 pt-5 pb-5 text-white bg-white border-t border-gray-200">
+        <footer class="px-4 pt-5 pb-5 text-white bg-white border-t border-gray-200 mb-10 ">
         <div class="container flex flex-col justify-between max-w-6xl px-4 mx-auto overflow-hidden lg:flex-row">
             <div class="w-full pl-12 mr-4 text-left lg:w-1/4 sm:text-center sm:pl-0 lg:text-left">
                 <a href="/"
