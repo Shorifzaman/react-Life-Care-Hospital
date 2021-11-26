@@ -6,9 +6,7 @@ It is a single page application made with ReactJS, Tailwind CSS etc...
 ## Live Demo of this website :
 
 - [Live Site Link](https://life-careltd.web.app/)
-## Live Demo of this website netlify :
 
-- [Live Site Link](https://cranky-lichterman-dab036.netlify.app/)
 
 ##  this website details :
 
